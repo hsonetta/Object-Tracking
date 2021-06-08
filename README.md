@@ -1,6 +1,6 @@
 # Object Detection and Tracking using PyTorch
 
-Pretrained Yolo model is used to detect objects in the video frames. The objects across the frames are tracked using SORT. Watch the demo in following video.
+Pretrained Yolo model is used to detect objects in the video frames. The objects across the frames are tracked using SORT. Watch demo in the following video.
 
 [![Watch the video](https://i.imgur.com/MCWaE9Z.png)](https://youtu.be/FmzJZ7hJfHA)
 

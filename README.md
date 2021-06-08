@@ -1,3 +1,3 @@
 # Object-Tracking
 
-[![Watch the video](https://imgur.com/a/srb9JWr)](https://youtu.be/FmzJZ7hJfHA)
+[![Watch the video](https://imgur.com/MCWaE9Z)](https://youtu.be/FmzJZ7hJfHA)
